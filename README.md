@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🌐 Socials:</h2>
+<h2 align="left">🌐 Socials Media:</h2>
 
 ###
 
@@ -54,6 +54,16 @@
 
 ###
 
+![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinadk2011&show_icons=true&theme=radical)
+<p align="right">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinadk2011&layout=compact&theme=radical)
+</p>
+
+
+
 <h3 align="left">👀 Profile Views</h3>
 
 ###
+![Profile Views](https://komarev.com/ghpvc/?username=sachinadk2011&color=blue)
+
