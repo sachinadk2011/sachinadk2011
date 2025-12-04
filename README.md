@@ -58,10 +58,11 @@
 
 ###
 
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachinadk2011&show_icons=true&theme=radical)
+
+![Sachin's GitHub Stats](https://github-readme-stats-cyan-iota-43.vercel.app/api?username=sachinadk2011&show_icons=true&bg_color=000000)
 <p align="right">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinadk2011&layout=compact&theme=radical)
+![Sachin's Top Languages](https://github-readme-stats-cyan-iota-43.vercel.app/api/top-langs/?username=sachinadk2011&layout=compact&bg_color=000000)
 </p>
 
 
