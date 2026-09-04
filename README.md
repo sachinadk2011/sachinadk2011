@@ -58,10 +58,10 @@
 
 ###
 
-<!--
+
 ![Sachin's GitHub Stats](https://github-readme-stats-cyan-iota-43.vercel.app/api?username=sachinadk2011&show_icons=true&bg_color=000000)
 <p align="right">
--->
+
 ![Sachin's Top Languages](https://github-readme-stats-cyan-iota-43.vercel.app/api/top-langs/?username=sachinadk2011&layout=compact&bg_color=000000)
 </p>
 
